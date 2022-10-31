@@ -1,0 +1,2 @@
+liczby parzyste 105 
+ ilosc nieparzystych 95
